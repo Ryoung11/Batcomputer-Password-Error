@@ -1,0 +1,7 @@
+input ("What is the Password ")
+
+print ("Error_1")
+
+Password = "Beyond"
+Error_1 = "System Function Error"
+print (Error_1)
